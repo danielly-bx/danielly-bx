@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @danielly-bx
-- 👀 I’m interested in Data Science
-- 🌱 I’m working with Python, R Language and SQL
-- 📫 danielly.xavier@iclinic.com.br
+- 👋  Hi, I’m @danielly-bx
+- 👀  I’m interested in Data Science
+- 🌱  I’m working with Python, R Language and SQL
+- 📫  danielly.xavier@iclinic.com.br
